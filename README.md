@@ -18,6 +18,7 @@ This repository holds some of my Power BI works
 
 ### **Project Overview** 
 The Basketball Analytics Dashboard is a Power BI dashboard designed to collect, analyze, and visualize player statistics for age-grouped athletes in Atlantic Canada’s local basketball community. The goal is to provide insights into individual and team performance, helping players assess their standing while supporting coaches in making objective, data-driven decisions for team selection and game strategy. 
+![Dashboard Preview](assets/overview.png)
 
 ### **Key Features**
 
