@@ -11,10 +11,7 @@ This repository holds some of my Power BI works
 - [Data Sources and Methodology](#data-sources-and-methodology)
 - [Installation and Usage](#installation-and-usage)
 - [Contributors and License](#contributors-and-license)
-- [Results and Findings](#results-and-findings)
-- [Recommendations](#recommendations)
-- [Limitations](#limitations)
-- [References](#references)
+
 
 ### **Project Overview** 
 The Basketball Analytics Dashboard is a Power BI dashboard designed to collect, analyze, and visualize player statistics for age-grouped athletes in Atlantic Canada’s local basketball community. The goal is to provide insights into individual and team performance, helping players assess their standing while supporting coaches in making objective, data-driven decisions for team selection and game strategy. 
@@ -26,20 +23,24 @@ The Basketball Analytics Dashboard is a Power BI dashboard designed to collect, 
 
 ✅ Player Performance Metrics – Individual stats such as points per game, assists, rebounds, shooting accuracy, turnovers, etc. 
 
+
   ![2025-04-14_18-31-48](https://github.com/user-attachments/assets/d81d7f81-017e-44af-ab53-af74eaa6a7c0)
 
 
 ✅ Team Strengths & Weaknesses – Comparative analysis of offensive and defensive efficiency across different game scenarios. 
 
+
   ![team-stats](https://github.com/user-attachments/assets/7d1bbae8-5565-4d05-9686-cb27f7f9db29)
 
 
-✅ Coaching Insights – Data-driven tools to optimize player rotations, lineups, and strategy based on key performance indicators. 
+✅ Coaching Insights – Data-driven tools to optimize player rotations, lineups, and strategy based on key performance indicators.
+
 
   ![metrics-ratios](https://github.com/user-attachments/assets/e15cbed2-b5a2-4e07-8add-bb8cd8fba93b)
 
 
 ✅ Ranking System – Displays individual rankings among teammates, helping players identify areas of improvement.
+
 
   ![anonym-ranking](https://github.com/user-attachments/assets/fca20fba-d310-4ca3-b4cb-bdded18d62e9)
 
